@@ -1,6 +1,6 @@
 {
   "name": "@dada78641/env-paths",
-  "description": "Returns platform specific config paths",
+  "description": "Library for determining platform-specific data paths",
   "version": "0.1.0",
   "type": "module",
   "main": "dist/index.cjs",
